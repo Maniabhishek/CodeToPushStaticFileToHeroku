@@ -1,0 +1,7 @@
+for index.php file
+
+1. git init
+2. git add .
+3. git commit -m "My site ready for deployment."
+4. heroku apps:create my-static-site-example
+5. git push heroku master
